@@ -135,7 +135,7 @@ onKeyPress("space", () => {
 
 `isGrounded()` is another function provided by `body()` component which checks if currently landed on a platform. Now our game is slightly more physically correct.
 
-Bean loves challanges. Let's start adding in obstacles to jump over! Time to build a game object from components again.
+Bean loves challenges. Let's start adding in obstacles to jump over! Time to build a game object from components again.
 
 ```js
 // add tree
